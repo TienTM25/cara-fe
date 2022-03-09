@@ -1,0 +1,24 @@
+<div class="parent clearfix">
+  <div class="bg-illustration">
+    <div class="burger-btn">
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
+  </div>
+
+  <div class="login">
+    <div class="container">
+      <h1>Register</h1>
+
+      <div class="login-form">
+        <form action="" [formGroup]="form" (ngSubmit)="register()">
+          <input type="text" placeholder="Your Name" formControlName="username" />
+          <input type="email" placeholder="E-mail Address" formControlName="email"/>
+          <input type="password" placeholder="Password" formControlName="password"/>
+          <button type="submit">Register</button>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>

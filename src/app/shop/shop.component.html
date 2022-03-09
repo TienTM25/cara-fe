@@ -1,0 +1,49 @@
+<app-header></app-header>
+<section id="page-header">
+
+    <h2>#stayhome</h2>
+
+    <p>Save more with coupons & up to 70% off!</p>
+
+</section>
+
+<section id="product1" class="section-p1">
+    <div class="pro-container">
+        <div class="pro" *ngFor = "let p of shopProducts">
+            <img src="{{p.imageUrl}}" alt="">
+            <div class="des">
+                <span>adidas</span>
+                <!-- <h5>{{p.name}}</h5> -->
+                <a routerLink="../product-detail/{{p.id}}"><h5>{{p.name}}</h5></a>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+                <h4>{{p.price | number}} VND</h4>
+            </div>
+            <a href="javascript:void(0)" (click)="addItem(p)"><i class="fal fa-shopping-cart cart"></i></a>
+        </div>
+    </div>
+</section>
+
+<section id="pagination" class="section-p1">
+    <a href="#"><i class="fal fa-long-arrow-alt-left"></i></a>
+    <a href="javascript:void(0)" (click)="productPagination(1)">1</a>
+    <a href="javascript:void(0)" (click)="productPagination(2)">2</a>
+    <a href="#"><i class="fal fa-long-arrow-alt-right"></i></a>
+</section>
+
+<section id="newsletter" class="section-p1 section-m1">
+    <div class="newstext">
+        <h4>Sign Up For Newsletters</h4>
+        <p>Get E-mail updates about our latest shop and <span>special offers.</span> </p>
+    </div>
+    <div class="form">
+        <input type="text" placeholder="Your email address">
+        <button class="normal">Sign Up</button>
+    </div>
+</section>
+<app-footer></app-footer>

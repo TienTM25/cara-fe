@@ -1,0 +1,33 @@
+<div class="parent clearfix">
+  <div class="bg-illustration">
+    <div class="burger-btn">
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
+  </div>
+
+  <div class="login">
+    <div class="container">
+      <h1>Login</h1>
+
+      <div class="login-form">
+        <form action="" [formGroup]="form" (ngSubmit)="login()">
+          <input type="email" placeholder="E-mail Address" formControlName="username"/>
+          <input type="password" placeholder="Password" formControlName="password"/>
+
+          <div class="remember-form">
+            <input type="checkbox" (ngClick)="rememberMe()"/>
+            <span>Remember me</span>
+          </div>
+          <div class="forget-pass">
+            <!-- <a href="#">Forgot Password ?</a><br/> -->
+            <a routerLink="../register">New Member ?</a>
+          </div>
+
+          <button type="submit">LOG-IN</button>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>

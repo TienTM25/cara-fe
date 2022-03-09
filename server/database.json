@@ -1,0 +1,151 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Incredible Metal Computer",
+      "description": "Eius totam aut eveniet. Odit veniam hic rerum dolores iure ipsa doloribus qui expedita. Dolorem quae blanditiis. Reiciendis quo modi repellendus. Perspiciatis nostrum aperiam est dicta nisi id ab. Sunt vero excepturi rerum molestiae.",
+      "price": "228.00",
+      "imageUrl": "https://source.unsplash.com/1600x900/?product"
+    },
+    {
+      "id": 2,
+      "name": "Licensed Steel Cheese",
+      "description": "Iure labore enim corporis dignissimos occaecati. Voluptate repudiandae ipsam temporibus ducimus sint saepe.",
+      "price": "242.00",
+      "imageUrl": "https://source.unsplash.com/1600x900/?product"
+    },
+    {
+      "id": 3,
+      "name": "Small Frozen Bike",
+      "description": "Voluptate et quas sint quo dolorem aut. Aspernatur dolorem fugit non et laboriosam quidem. Ipsum consequatur non.",
+      "price": "902.00",
+      "imageUrl": "https://source.unsplash.com/1600x900/?product"
+    },
+    {
+      "id": 4,
+      "name": "Generic Frozen Towels",
+      "description": "Et quis eligendi. Labore eveniet similique rerum labore non repellat saepe in fugit. Occaecati est temporibus illum ut quo.",
+      "price": "216.00",
+      "imageUrl": "https://source.unsplash.com/1600x900/?product"
+    },
+    {
+      "id": 5,
+      "name": "Unbranded Concrete Mouse",
+      "description": "Neque quod dolores laborum id ducimus vel totam eum. Sapiente sed vel et nisi hic aut aperiam illum.",
+      "price": "249.00",
+      "imageUrl": "https://source.unsplash.com/1600x900/?product"
+    },
+    {
+      "id": 6,
+      "name": "Licensed Cotton Keyboard",
+      "description": "Et quia eum qui cum occaecati qui alias ullam. Architecto quos doloribus molestiae consectetur quis. Unde officiis quis voluptatum harum architecto libero corporis molestiae quo.",
+      "price": "599.00",
+      "imageUrl": "https://source.unsplash.com/1600x900/?product"
+    },
+    {
+      "id": 7,
+      "name": "Licensed Rubber Bike",
+      "description": "Quod aut nihil asperiores delectus aut dicta. Aut occaecati et nisi saepe quidem aperiam aut molestiae qui. Magnam maxime officia vero magnam laudantium corrupti id unde. Similique placeat impedit natus et accusamus.",
+      "price": "297.00",
+      "imageUrl": "https://source.unsplash.com/1600x900/?product"
+    },
+    {
+      "id": 8,
+      "name": "Generic Metal Hat",
+      "description": "Odio doloremque cumque sit eveniet asperiores ipsam. Deserunt quia et deleniti molestiae dolores libero. Fugiat corrupti tempore maiores voluptas non. Excepturi ab in necessitatibus et non mollitia.",
+      "price": "356.00",
+      "imageUrl": "https://source.unsplash.com/1600x900/?product"
+    },
+    {
+      "id": 9,
+      "name": "Awesome Fresh Gloves",
+      "description": "Ex non qui ut nihil eum. Hic suscipit mollitia et. Eos ut eaque nihil culpa inventore. Dolor ab eos ut cum molestiae nihil fugiat. Unde ipsa pariatur ut omnis a vero dolorem earum laboriosam.",
+      "price": "907.00",
+      "imageUrl": "https://source.unsplash.com/1600x900/?product"
+    },
+    {
+      "id": 10,
+      "name": "Sleek Rubber Towels",
+      "description": "Quae molestias quasi et eaque. Sint et est in aut voluptas rerum aut. Velit id asperiores facilis. Facere ipsam reiciendis saepe. Eum sit fuga repellendus ab laborum.",
+      "price": "726.00",
+      "imageUrl": "https://source.unsplash.com/1600x900/?product"
+    },
+    {
+      "id": 11,
+      "name": "Sleek Rubber Sausages",
+      "description": "Sed totam sunt pariatur possimus quae beatae aperiam deserunt odio. Alias inventore est. Neque vel et temporibus at.",
+      "price": "801.00",
+      "imageUrl": "https://source.unsplash.com/1600x900/?product"
+    },
+    {
+      "id": 12,
+      "name": "Refined Frozen Chicken",
+      "description": "Iure eos rerum natus quasi at ad nulla. Odio qui qui molestiae inventore rem eveniet non hic itaque.",
+      "price": "67.00",
+      "imageUrl": "https://source.unsplash.com/1600x900/?product"
+    },
+    {
+      "id": 13,
+      "name": "Rustic Steel Cheese",
+      "description": "Illum qui maiores qui sint. Quas doloremque molestiae sed aut ullam maiores dolor voluptas id. Vel qui aperiam veniam eveniet soluta nihil.",
+      "price": "754.00",
+      "imageUrl": "https://source.unsplash.com/1600x900/?product"
+    },
+    {
+      "id": 14,
+      "name": "Fantastic Steel Towels",
+      "description": "Nulla et illum expedita consequatur sunt eos. Nobis quae dolores molestiae itaque dolor alias. Consequatur et voluptates consequuntur ut officiis consectetur. Sunt quasi aspernatur molestias ipsam necessitatibus aut et totam. Nemo et est qui commodi dignissimos et sed soluta esse. Mollitia qui accusantium.",
+      "price": "712.00",
+      "imageUrl": "https://source.unsplash.com/1600x900/?product"
+    },
+    {
+      "id": 15,
+      "name": "Fantastic Concrete Pizza",
+      "description": "Assumenda qui officiis tempora iste sed et aut. Aut nihil veritatis eum optio et iusto est molestias quod. At necessitatibus tempore unde velit aliquam ut voluptatum. Voluptatem ratione aspernatur dolorem culpa numquam autem.",
+      "price": "543.00",
+      "imageUrl": "https://source.unsplash.com/1600x900/?product"
+    },
+    {
+      "id": 16,
+      "name": "Awesome Granite Chair",
+      "description": "Eos eos et nisi laudantium incidunt doloribus perferendis modi. Eveniet labore enim eveniet exercitationem et dolores quae eveniet dolore. Repellat ea molestias et molestiae quaerat et voluptas magnam. Quos accusantium commodi quia voluptas optio.",
+      "price": "257.00",
+      "imageUrl": "https://source.unsplash.com/1600x900/?product"
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "username": "User-1",
+      "email": "user@gmail.com",
+      "password": "123456",
+      "is_active": true,
+      "address": "Ha Noi",
+      "city": "Ha Noi",
+      "nation": "Vietnam",
+      "job": "Solution Manager"
+    },
+    {
+      "username": "user-2",
+      "email": "user-2@gmail.com",
+      "password": "123456",
+      "address": "Ha Noi",
+      "city": "Ha Noi",
+      "nation": "Vietnam",
+      "job": "Solution Manager",
+      "is_active": true,
+      "id": 2
+    },
+    {
+      "username": "user3",
+      "email": "user3@gmail.com",
+      "password": "123456",
+      "is_active": "",
+      "address": "",
+      "city": "",
+      "nation": "",
+      "job": "",
+      "id": 3
+    }
+  ]
+}
